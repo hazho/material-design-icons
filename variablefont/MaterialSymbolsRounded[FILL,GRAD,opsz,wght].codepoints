@@ -122,6 +122,7 @@ add_to_drive e65c
 add_to_home_screen e1fe
 add_to_photos e39d
 add_to_queue e05c
+add_triangle f48e
 addchart ef3c
 adf_scanner eada
 adjust e39e
@@ -198,6 +199,7 @@ amp_stories ea13
 analytics ef3e
 anchor f1cd
 android e859
+animated_images f49a
 animation e71c
 announcement e87f
 aod efda
@@ -1674,6 +1676,8 @@ keyboard_external_input f7dd
 keyboard_full f7dc
 keyboard_hide e31a
 keyboard_keys f67b
+keyboard_lock f492
+keyboard_lock_off f491
 keyboard_off f67a
 keyboard_onscreen f7db
 keyboard_option_key eae8
@@ -1845,6 +1849,7 @@ loop e863
 loupe e402
 low_density f79b
 low_priority e16d
+lowercase f48a
 loyalty e89a
 lte_mobiledata f02c
 lte_mobiledata_badge f7d9
@@ -1864,6 +1869,7 @@ magnify_docked f7d6
 magnify_fullscreen f7d5
 mail e159
 mail_lock ec0a
+mail_off f48b
 mail_outline e159
 male e58e
 man e4eb
@@ -1999,6 +2005,8 @@ motion_sensor_urgent e78e
 motorcycle e91b
 mountain_flag f5e2
 mouse e323
+mouse_lock f490
+mouse_lock_off f48f
 move e740
 move_down eb61
 move_group f715
@@ -2016,6 +2024,7 @@ movie_creation e404
 movie_edit f840
 movie_filter e43a
 movie_info e02d
+movie_off f499
 moving e501
 moving_beds e73d
 moving_ministry e73e
@@ -2908,12 +2917,18 @@ specific_gravity f872
 speech_to_text f8a7
 speed e9e4
 speed_0_25 f4d4
+speed_0_2x f498
 speed_0_5 f4e2
+speed_0_5x f497
 speed_0_75 f4d3
+speed_0_7x f496
 speed_1_2 f4e1
 speed_1_25 f4d2
+speed_1_2x f495
 speed_1_5 f4e0
+speed_1_5x f494
 speed_1_75 f4d1
+speed_1_7x f493
 speed_2x f4eb
 spellcheck e8ce
 splitscreen f06d
@@ -3204,6 +3219,7 @@ timer_play f4ba
 tips_and_updates e79a
 tire_repair ebc8
 title e264
+titlecase f489
 toast efc1
 toc e8de
 today e8df
@@ -3322,6 +3338,7 @@ upgrade f0fb
 upload f09b
 upload_2 f521
 upload_file e9fc
+uppercase f488
 urology e137
 usb e1e0
 usb_off e4fa
