@@ -2208,6 +2208,7 @@ mobile_text f2eb
 mobile_text_2 f2e6
 mobile_ticket f2e4
 mobile_vibrate f2cb
+mobile_wrench f2b0
 mobiledata_off f034
 mode f097
 mode_comment e253
@@ -2674,6 +2675,7 @@ pivot_table_chart e9ce
 place f1db
 place_item f1f0
 plagiarism ea5a
+plane_contrails f2ac
 planet f387
 planner_banner_ad_pt e692
 planner_review e694
@@ -3100,6 +3102,7 @@ shield_locked f592
 shield_moon eaa9
 shield_person f650
 shield_question f529
+shield_toggle f2ad
 shield_watch f30f
 shield_with_heart e78f
 shield_with_house e78d
@@ -3567,9 +3570,11 @@ time_to_leave eff7
 timelapse e422
 timeline e922
 timer e425
+timer_1 f2af
 timer_10 e423
 timer_10_alt_1 efbf
 timer_10_select f07a
+timer_2 f2ae
 timer_3 e424
 timer_3_alt_1 efc0
 timer_3_select f07b
