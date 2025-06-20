@@ -698,6 +698,7 @@ check_box_outline_blank e835
 check_circle f0be
 check_circle_filled f0be
 check_circle_outline f0be
+check_circle_unread f27e
 check_in_out f6f6
 check_indeterminate_small f88a
 check_small f88b
