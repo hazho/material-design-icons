@@ -385,9 +385,11 @@ barcode_reader f85c
 barcode_scanner e70c
 barefoot f871
 batch_prediction f0f5
+bath_bedrock f286
 bath_outdoor f6fb
 bath_private f6fa
 bath_public_large f6f9
+bath_soak f2a0
 bathroom efdd
 bathtub ea41
 battery_0_bar ebdc
@@ -452,6 +454,7 @@ bedroom_parent efe2
 bedtime f159
 bedtime_off eb76
 beenhere e52d
+beer_meal f285
 bento f1f4
 bia f6eb
 bid_landscape e678
@@ -590,6 +593,7 @@ calculate ea5f
 calendar_add_on ef85
 calendar_apps_script f0bb
 calendar_clock f540
+calendar_meal f296
 calendar_month ebcc
 calendar_today e935
 calendar_view_day e936
@@ -677,6 +681,9 @@ center_focus_strong e3b4
 center_focus_weak e3b5
 chair efed
 chair_alt efee
+chair_counter f29f
+chair_fireplace f29e
+chair_umbrella f29d
 chalet e585
 change_circle e2e7
 change_history e86b
@@ -1013,6 +1020,9 @@ dictionary f539
 difference eb7d
 digital_out_of_home f1de
 digital_wellbeing ef86
+dine_heart f29c
+dine_in f295
+dine_lamp f29b
 dining eff4
 dinner_dining ea57
 directions e52e
@@ -1547,8 +1557,10 @@ gallery_thumbnail f86f
 gamepad e30f
 games e30f
 garage f011
+garage_check f28d
 garage_door e714
 garage_home e82d
+garage_money f28c
 garden_cart f8a9
 gas_meter ec19
 gastroenterology e0f1
@@ -1630,6 +1642,8 @@ hallway e6f8
 hand_bones f894
 hand_gesture ef9c
 hand_gesture_off f3f3
+hand_meal f294
+hand_package f293
 handheld_controller f4c6
 handshake ebcb
 handwriting_recognition eb02
@@ -1676,6 +1690,7 @@ heart_broken eac2
 heart_check f60a
 heart_minus f883
 heart_plus f884
+heart_smile f292
 heat f537
 heat_pump ec18
 heat_pump_balance e27e
@@ -1691,6 +1706,7 @@ hexagon eb39
 hide ef9e
 hide_image f022
 hide_source f023
+high_chair f29a
 high_density f79c
 high_quality e024
 high_res f54b
@@ -1839,6 +1855,8 @@ ios_share e6b8
 iron e583
 iso e3f6
 jamboard_kiosk e9b5
+japanese_curry f284
+japanese_flag f283
 javascript eb7c
 join f84f
 join_full f84f
@@ -2088,6 +2106,8 @@ manage_search f02f
 manga f5e3
 manufacturing e726
 map e55b
+map_pin_heart f298
+map_pin_review f297
 map_search f3ca
 maps_home_work f030
 maps_ugc ef58
@@ -2130,6 +2150,7 @@ memory_alt f7a3
 menstrual_health f6e1
 menu e5d2
 menu_book ea19
+menu_book_2 f291
 menu_open e9bd
 merge eb98
 merge_type e252
@@ -2248,6 +2269,7 @@ mood_bad e7f3
 moon_stars f34f
 mop e28d
 moped eb28
+moped_package f28b
 more e619
 more_down f196
 more_horiz e5d3
@@ -2269,6 +2291,7 @@ motion_sensor_idle e783
 motion_sensor_urgent e78e
 motorcycle e91b
 mountain_flag f5e2
+mountain_steam f282
 mouse e323
 mouse_lock f490
 mouse_lock_off f48f
@@ -2463,6 +2486,7 @@ offline_pin e90a
 offline_pin_off f4d0
 offline_share f2de
 oil_barrel ec15
+okonomiyaki f281
 on_device_training ebfd
 on_hub_device e6c3
 oncology e114
@@ -2534,6 +2558,9 @@ panorama_vertical e40e
 panorama_wide_angle e40f
 paragliding e50f
 park ea63
+parking_meter f28a
+parking_sign f289
+parking_valet f288
 partly_cloudy_day f172
 partly_cloudy_night f174
 partner_exchange f7f9
@@ -2552,6 +2579,7 @@ pause_circle_outline e1a2
 pause_presentation e0ea
 payment e8a1
 payment_arrow_down f2c0
+payment_card f2a1
 payments ef63
 pedal_bike eb29
 pediatrics e11d
@@ -2592,6 +2620,7 @@ person_celebrate f7fe
 person_check f565
 person_edit f4fa
 person_filled f0d3
+person_heart f290
 person_off e510
 person_outline f0d3
 person_pin e55a
@@ -2692,6 +2721,8 @@ play_lesson f047
 play_music e6ee
 play_pause f137
 play_shapes f7fc
+playground f28e
+playground_2 f28f
 playing_cards f5dc
 playlist_add e03b
 playlist_add_check e065
@@ -3396,6 +3427,7 @@ subtitles e048
 subtitles_gear f355
 subtitles_off ef72
 subway e56f
+subway_walk f287
 summarize f071
 sunny e81a
 sunny_snowing e819
@@ -3477,6 +3509,7 @@ table_convert f3c7
 table_edit f3c6
 table_eye f466
 table_lamp e1f2
+table_large f299
 table_restaurant eac6
 table_rows f101
 table_rows_narrow f73f
@@ -3840,6 +3873,7 @@ warning f083
 warning_amber f083
 warning_off f7ad
 wash f1b1
+washoku f280
 watch e334
 watch_arrow f2ca
 watch_button_press f6aa
@@ -3950,6 +3984,7 @@ wrist f69c
 wrong_location ef78
 wysiwyg f1c3
 yard f089
+yoshoku f27f
 your_trips eb2b
 youtube_activity f85a
 youtube_searched_for e8fa
