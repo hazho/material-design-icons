@@ -635,7 +635,9 @@ car_crash ebf2
 car_defrost_left f344
 car_defrost_low_left f343
 car_defrost_low_right f342
+car_defrost_mid_left f278
 car_defrost_mid_low_left f341
+car_defrost_mid_low_right f277
 car_defrost_mid_right f340
 car_defrost_right f33f
 car_fan_low_left f33e
@@ -2362,6 +2364,11 @@ nest_display f124
 nest_display_max f125
 nest_doorbell_visitor f8bd
 nest_eco_leaf f8be
+nest_farsight_cool f27d
+nest_farsight_dual f27c
+nest_farsight_eco f27b
+nest_farsight_heat f27a
+nest_farsight_seasonal f279
 nest_farsight_weather f8bf
 nest_found_savings f8c0
 nest_gale_wifi f579
