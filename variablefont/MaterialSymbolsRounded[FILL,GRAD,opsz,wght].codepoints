@@ -338,6 +338,7 @@ auto_read_pause f219
 auto_read_play f216
 auto_schedule e214
 auto_stories e666
+auto_stories_off f267
 auto_timer ef7f
 auto_towing e71e
 auto_transmission f53f
@@ -720,7 +721,15 @@ checkroom f19e
 cheer f6a8
 chef_hat f357
 chess f5e7
+chess_bishop f261
+chess_bishop_2 f262
+chess_king f25f
+chess_king_2 f260
+chess_knight f25e
 chess_pawn f3b6
+chess_pawn_2 f25d
+chess_queen f25c
+chess_rook f25b
 chevron_backward f46b
 chevron_forward f46a
 chevron_left e5cb
@@ -1129,6 +1138,8 @@ drive_file_move_rtl e9a1
 drive_file_rename_outline e9a2
 drive_folder_upload e9a3
 drive_fusiontable e678
+drone f25a
+drone_2 f259
 dropdown e9a4
 dropper_eye f351
 dry f1b3
@@ -1284,6 +1295,7 @@ extension_off e4f5
 eye_tracking f4c9
 eyeglasses f6ee
 eyeglasses_2 f2c7
+eyeglasses_2_sound f265
 face f008
 face_2 f8da
 face_3 f8db
@@ -2911,6 +2923,7 @@ report_problem f083
 request_page f22c
 request_quote f1b6
 reset_brightness f482
+reset_exposure f266
 reset_focus f481
 reset_image f824
 reset_iso f480
@@ -3175,6 +3188,7 @@ shutter_speed_minus f57d
 sick f220
 side_navigation e9e2
 sign_language ebe5
+sign_language_2 f258
 signal_cellular_0_bar f0a8
 signal_cellular_1_bar f0a9
 signal_cellular_2_bar f0aa
@@ -3490,6 +3504,7 @@ sync_disabled e628
 sync_lock eaee
 sync_problem e629
 sync_saved_locally f820
+sync_saved_locally_off f264
 syringe e133
 system_security_update f2cd
 system_security_update_good f073
@@ -3692,6 +3707,7 @@ transition_fade f50c
 transition_push f50b
 transition_slide f50a
 translate e8e2
+translate_indic f263
 transportation e21d
 travel ef93
 travel_explore e2db
