@@ -209,6 +209,32 @@ amp_stories ea13
 analytics ef3e
 anchor f1cd
 android e859
+android_cell_4_bar ef06
+android_cell_4_bar_alert ef09
+android_cell_4_bar_off ef08
+android_cell_4_bar_plus ef07
+android_cell_5_bar ef02
+android_cell_5_bar_alert ef05
+android_cell_5_bar_off ef04
+android_cell_5_bar_plus ef03
+android_cell_dual_4_bar ef0d
+android_cell_dual_4_bar_alert ef0f
+android_cell_dual_4_bar_plus ef0e
+android_cell_dual_5_bar ef0a
+android_cell_dual_5_bar_alert ef0c
+android_cell_dual_5_bar_plus ef0b
+android_wifi_3_bar ef16
+android_wifi_3_bar_alert ef1b
+android_wifi_3_bar_lock ef1a
+android_wifi_3_bar_off ef19
+android_wifi_3_bar_plus ef18
+android_wifi_3_bar_question ef17
+android_wifi_4_bar ef10
+android_wifi_4_bar_alert ef15
+android_wifi_4_bar_lock ef14
+android_wifi_4_bar_off ef13
+android_wifi_4_bar_plus ef12
+android_wifi_4_bar_question ef11
 animated_images f49a
 animation e71c
 announcement e87f
@@ -267,6 +293,9 @@ arrow_range f69b
 arrow_right e5df
 arrow_right_alt e941
 arrow_selector_tool f82f
+arrow_shape_up eef6
+arrow_shape_up_stack eef7
+arrow_shape_up_stack_2 eef8
 arrow_split ea04
 arrow_top_left f72e
 arrow_top_right f72d
@@ -355,6 +384,7 @@ av_timer e01b
 avc f4af
 avg_pace f6bb
 avg_time f813
+award_meal f241
 award_star f612
 azm f6ec
 baby_changing_station f19b
@@ -416,6 +446,19 @@ battery_android_5 f308
 battery_android_6 f307
 battery_android_alert f306
 battery_android_bolt f305
+battery_android_frame_1 f257
+battery_android_frame_2 f256
+battery_android_frame_3 f255
+battery_android_frame_4 f254
+battery_android_frame_5 f253
+battery_android_frame_6 f252
+battery_android_frame_alert f251
+battery_android_frame_bolt f250
+battery_android_frame_full f24f
+battery_android_frame_plus f24e
+battery_android_frame_question f24d
+battery_android_frame_share f24c
+battery_android_frame_shield f24b
 battery_android_full f304
 battery_android_plus f303
 battery_android_question f302
@@ -544,6 +587,7 @@ breaking_news ea08
 breaking_news_alt_1 f0ba
 breastfeeding f856
 brick f388
+briefcase_meal f246
 brightness_1 e3fa
 brightness_2 f036
 brightness_3 e3a8
@@ -571,6 +615,7 @@ brush e3ae
 bubble ef83
 bubble_chart e6dd
 bubbles f64e
+bucket_check ef2a
 bug_report e868
 build f8cd
 build_circle ef48
@@ -593,8 +638,11 @@ cake_add f85b
 calculate ea5f
 calendar_add_on ef85
 calendar_apps_script f0bb
+calendar_check f243
 calendar_clock f540
+calendar_lock f242
 calendar_meal f296
+calendar_meal_2 f240
 calendar_month ebcc
 calendar_today e935
 calendar_view_day e936
@@ -736,6 +784,7 @@ chevron_left e5cb
 chevron_right e5cc
 child_care eb41
 child_friendly eb42
+child_hat ef30
 chip_extraction f821
 chips e993
 chrome_reader_mode e86d
@@ -861,6 +910,7 @@ control_camera e074
 control_point e3ba
 control_point_duplicate e3bb
 controller_gen e83d
+conversation ef2f
 conversion_path f0c1
 conversion_path_off f7b4
 convert_to_text f41f
@@ -1653,6 +1703,7 @@ h_plus_mobiledata f019
 h_plus_mobiledata_badge f7df
 hail e9b1
 hallway e6f8
+hanami_dango f23f
 hand_bones f894
 hand_gesture ef9c
 hand_gesture_off f3f3
@@ -1809,6 +1860,7 @@ iframe_off f71c
 image e3f4
 image_arrow_up f317
 image_aspect_ratio e3f5
+image_inset f247
 image_not_supported f116
 image_search e43f
 imagesearch_roller e9b4
@@ -1879,6 +1931,7 @@ join_left eaf2
 join_right eaea
 joystick f5ee
 jump_to_element f719
+kanji_alcohol f23e
 kayaking e50c
 kebab_dining e842
 keep f026
@@ -2109,6 +2162,7 @@ mail e159
 mail_lock ec0a
 mail_off f48b
 mail_outline e159
+mail_shield f249
 male e58e
 man e4eb
 man_2 f8e1
@@ -2146,6 +2200,8 @@ match_case_off f36f
 match_word f6f0
 matter e907
 maximize e930
+meal_dinner f23d
+meal_lunch f23c
 measuring_tape f6af
 media_bluetooth_off f031
 media_bluetooth_on f032
@@ -2270,6 +2326,7 @@ money e57d
 money_bag f3ee
 money_off f038
 money_off_csred f038
+money_range f245
 monitor ef5b
 monitor_heart eaa2
 monitor_weight f039
@@ -2560,6 +2617,7 @@ page_control e731
 page_footer f383
 page_header f384
 page_info f614
+page_menu_ios eefb
 pageless f509
 pages e7f9
 pageview e8a0
@@ -2576,6 +2634,7 @@ panorama_photosphere e9c9
 panorama_vertical e40e
 panorama_wide_angle e40f
 paragliding e50f
+parent_child_dining f22d
 park ea63
 parking_meter f28a
 parking_sign f289
@@ -2583,6 +2642,7 @@ parking_valet f288
 partly_cloudy_day f172
 partly_cloudy_night f174
 partner_exchange f7f9
+partner_heart ef2e
 partner_reports efaf
 party_mode e7fa
 passkey f87f
@@ -2614,6 +2674,7 @@ people ea21
 people_alt ea21
 people_outline ea21
 percent eb58
+percent_discount f244
 performance_max e51a
 pergola e203
 perm_camera_mic e8a2
@@ -2936,6 +2997,7 @@ reset_wrench f56c
 resize f707
 respiratory_rate e127
 responsive_layout e9da
+rest_area f22a
 restart_alt f053
 restaurant e56c
 restaurant_menu e561
@@ -3047,6 +3109,7 @@ search e8b6
 search_activity f3e5
 search_check f800
 search_check_2 f469
+search_gear eefa
 search_hands_free e696
 search_insights f4bc
 search_off ea76
@@ -3128,6 +3191,7 @@ settings_phone e8c5
 settings_photo_camera f834
 settings_power e8c6
 settings_remote e8c7
+settings_seating ef2d
 settings_slow_motion f623
 settings_suggest f05e
 settings_system_daydream e1c3
@@ -3148,6 +3212,7 @@ share_location f05f
 share_off f6cb
 share_reviews f8a4
 share_windows f613
+shaved_ice f225
 sheets_rtl f823
 shelf_auto_hide f703
 shelf_position f702
@@ -3265,9 +3330,11 @@ snowing_heavy f61c
 snowmobile e503
 snowshoeing e514
 soap f1b2
+soba ef36
 social_distance e1cb
 social_leaderboard f6a0
 solar_power ec0f
+solo_dining ef35
 sort e164
 sort_by_alpha e053
 sos ebf7
@@ -3535,6 +3602,7 @@ table_large f299
 table_restaurant eac6
 table_rows f101
 table_rows_narrow f73f
+table_sign ef2c
 table_view f1be
 tablet e32f
 tablet_android e330
@@ -3545,6 +3613,7 @@ tactic f564
 tag e9ef
 tag_faces ea22
 takeout_dining ea74
+takeout_dining_2 ef34
 tamper_detection_off e82e
 tamper_detection_on f8c8
 tap_and_play f2cc
@@ -3552,6 +3621,7 @@ tapas f1e9
 target e719
 task f075
 task_alt e2e6
+tatami_seat ef33
 taunt f69f
 taxi_alert ef74
 team_dashboard e013
@@ -3618,6 +3688,7 @@ thumb_up_filled f577
 thumb_up_off f577
 thumb_up_off_alt f577
 thumbnail_bar f734
+thumbs_up_double eefc
 thumbs_up_down e8dd
 thunderstorm ebdb
 tibia f89b
@@ -3752,6 +3823,7 @@ two_wheeler e9f9
 type_specimen f8f0
 u_turn_left eba1
 u_turn_right eba2
+udon ef32
 ulna_radius f89d
 ulna_radius_alt f89e
 umbrella f1ad
@@ -3985,6 +4057,7 @@ window f088
 window_closed e77e
 window_open e78c
 window_sensor e2bb
+windshield_defrost_auto f248
 windshield_defrost_front f32a
 windshield_defrost_rear f329
 windshield_heat_front f328
@@ -4006,6 +4079,7 @@ wrap_text e25b
 wrist f69c
 wrong_location ef78
 wysiwyg f1c3
+yakitori ef31
 yard f089
 yoshoku f27f
 your_trips eb2b
