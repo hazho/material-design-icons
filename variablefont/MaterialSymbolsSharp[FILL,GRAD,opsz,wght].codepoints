@@ -2308,6 +2308,7 @@ mobile_text f2eb
 mobile_text_2 f2e6
 mobile_theft f2a9
 mobile_ticket f2e4
+mobile_unlock eeea
 mobile_vibrate f2cb
 mobile_wrench f2b0
 mobiledata_off f034
@@ -3982,6 +3983,7 @@ watch_arrow f2ca
 watch_button_press f6aa
 watch_check f468
 watch_later efd6
+watch_lock eee9
 watch_off eae3
 watch_screentime f6ae
 watch_vibration f467
